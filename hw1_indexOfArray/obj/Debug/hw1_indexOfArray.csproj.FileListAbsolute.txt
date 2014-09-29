@@ -1,0 +1,44 @@
+c:\users\mhr\documents\visual studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.exe.config
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.exe
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.pdb
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.csprojResolveAssemblyReference.cache
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.Form1.resources
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.Properties.Resources.resources
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.csproj.GenerateResource.Cache
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.exe
+C:\Users\Mhr\Documents\Visual Studio 2013\Projects\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.pdb
+J:\day2\HW\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.exe.config
+J:\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.exe
+J:\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.pdb
+J:\day2\HW\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.exe
+J:\day2\HW\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.pdb
+J:\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.csprojResolveAssemblyReference.cache
+J:\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.Form1.resources
+J:\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.Properties.Resources.resources
+J:\day2\HW\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.exe.config
+C:\Users\PC21\Desktop\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.exe
+C:\Users\PC21\Desktop\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.pdb
+C:\Users\PC21\Desktop\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.exe
+C:\Users\PC21\Desktop\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.pdb
+C:\Users\PC21\Desktop\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.Form1.resources
+C:\Users\PC21\Desktop\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.Properties.Resources.resources
+C:\Users\PC21\Desktop\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.csproj.GenerateResource.Cache
+J:\lab3\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.exe.config
+J:\lab3\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.exe
+J:\lab3\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.pdb
+J:\lab3\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.Form1.resources
+J:\lab3\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.Properties.Resources.resources
+J:\lab3\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.csproj.GenerateResource.Cache
+J:\lab3\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.exe
+J:\lab3\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.pdb
+F:\BASIS\Dayy 3(16 Sep 2014)\lab3\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.exe.config
+F:\BASIS\Dayy 3(16 Sep 2014)\lab3\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.exe
+F:\BASIS\Dayy 3(16 Sep 2014)\lab3\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.pdb
+F:\BASIS\Dayy 3(16 Sep 2014)\lab3\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.exe
+F:\BASIS\Dayy 3(16 Sep 2014)\lab3\hw1_indexOfArray\hw1_indexOfArray\bin\Debug\hw1_indexOfArray.pdb
+F:\BASIS\Dayy 3(16 Sep 2014)\lab3\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.csprojResolveAssemblyReference.cache
+F:\BASIS\Dayy 3(16 Sep 2014)\lab3\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.Form1.resources
+F:\BASIS\Dayy 3(16 Sep 2014)\lab3\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.Properties.Resources.resources
+F:\BASIS\Dayy 3(16 Sep 2014)\lab3\hw1_indexOfArray\hw1_indexOfArray\obj\Debug\hw1_indexOfArray.csproj.GenerateResource.Cache
